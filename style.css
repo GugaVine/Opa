@@ -139,7 +139,7 @@ body {
 }
 
 
-@media (max-width: 47vh) {
+@media (max-width: 57vmax) {
 
     * {
         margin: 0;

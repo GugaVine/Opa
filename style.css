@@ -213,7 +213,7 @@ body {
     }
     
     .card .content .details {
-        padding: 0px;
+        padding: 20px;
         text-align: center;
         width: 100%;
         transition: 0.5s;
@@ -240,7 +240,7 @@ body {
     .card .content .details .data {
         display: flex;
         justify-content: space-around;
-        margin: 20px 0;
+        margin: 10px 0;
     }
     
     .card .content .details .data h3 {
@@ -264,7 +264,7 @@ body {
     
     .card .content .details .actionBtn button {
         padding: 15px 30px;
-        border-radius: 5px;
+        border-radius: 10px;
         border: none;
         outline: none;
         font-size: 1.7em;

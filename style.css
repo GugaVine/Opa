@@ -213,11 +213,11 @@ body {
     }
     
     .card .content .details {
-        padding: 40px;
+        padding: 0px;
         text-align: center;
         width: 100%;
         transition: 0.5s;
-        transform: translateY(150px);
+        transform: translateY(130px);
     }
     
     .card:hover .content .details {
@@ -225,7 +225,7 @@ body {
     }
     
     .card .content .details h2 {
-        font-size: 1.25em;
+        font-size: 3.0em;
         font-weight: 600;
         color: #555;
         line-height: 1.2em;
@@ -239,15 +239,15 @@ body {
     
     .card .content .details .data {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         margin: 20px 0;
     }
     
     .card .content .details .data h3 {
-        font-size: 1em;
+        font-size: 2.0em;
         color: #555;
         line-height: 1.2em;
-        font-weight: 600;
+        font-weight: 1200;
     }
     
     .card .content .details .data h3 span {
@@ -258,7 +258,7 @@ body {
     
     .card .content .details .actionBtn {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         gap: 20px;
     }
     
